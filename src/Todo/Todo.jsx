@@ -21,7 +21,7 @@ function Todo() {
             alert(error);
         }
 
-        // inputRef.current.value = "";
+        inputRef.current.value = "";
     };
 
    
