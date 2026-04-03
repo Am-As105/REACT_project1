@@ -37,7 +37,7 @@ function Todo() {
         setTodos(newTodos);
     };
 
-    return (
+    return(
         <div className="todo">
             <h1>Todo List Project</h1>
             <ul>
